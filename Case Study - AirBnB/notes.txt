@@ -1,0 +1,2 @@
+The presentation can be found at https://docs.google.com/presentation/d/1DVIwwvflolGMzGg4uMHJNGaqVYv_N8AH034ip5BHZVg/edit?usp=sharing
+The codes and data can be found at https://github.com/Arasy/Statistik-dan-Data-Science/
